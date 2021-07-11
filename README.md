@@ -1,2 +1,3 @@
 # WireGuard
-Install WireGuard bash script
+Install WireGuard bash script.
+Tested on Ubuntu 20.04
